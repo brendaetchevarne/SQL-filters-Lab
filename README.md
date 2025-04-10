@@ -117,6 +117,6 @@ First, I started by selecting all data from the `employees` table. Then, I used 
 
 I applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, `log_in_attempts` and `employees`. I used the `AND`, `OR`, and `NOT` operators to filter for the specific information needed for each task. I also used `LIKE` and the percentage sign (`%`) wildcard to filter for patterns.
 
-## 💡 Reflections / Lessons Learned
+## 💡 Reflections
 
 This project enhanced my confidence in using SQL to support cybersecurity investigations. Understanding how to use logical and pattern-matching filters helped me simulate real-world use cases like identifying unauthorized access and segmenting users based on departmental criteria. These techniques are essential for data-driven security analysis and will be valuable in future roles within the field.
