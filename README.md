@@ -8,10 +8,10 @@ In this project, I used SQL to investigate potential security issues within an o
 
 ## 🧠 Skills Learned
 
-- SQL query construction and logic filtering  
-- Threat investigation using datasets  
-- Pattern matching with `LIKE` and wildcards  
-- Data analysis for login activity and employee information   
+- SQL query construction and logic filtering.  
+- Threat investigation using datasets.  
+- Pattern matching with `LIKE` and wildcards.  
+- Data analysis for login activity and employee information.   
 
 ## 🛠️ Tools Used
 
